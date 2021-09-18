@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eden Niss
 - 👀 I’m interested in ML and Data Science
-- 🌱 I’m currently learning Physics at Ben Gurion Universit
+- 🌱 I’m currently studying Physics at Ben Gurion Universit, and learning ML independently
 - 📫 How to reach me: edennissinman@gmail.com
 
 <!---
