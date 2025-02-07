@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Eden Nissinman
-- 👀 I’m interested in ML and Data Science
+- 👀 I’m interested in Data Science and AI Engineering
 - 🌱 I’m currently working at Tel-Aviv University as Data Scientist
 - 📫 How to reach me: edennissinman@gmail.com
 
